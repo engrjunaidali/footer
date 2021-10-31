@@ -15,6 +15,19 @@ margin: 0 10vh;
     background-color: rgb(238, 238, 238);
 }
 
+#footer h1{
+    font-weight: normal;
+    padding: 5px 0;
+    border-bottom: 1px black solid;
+}
+#footer p,ul{
+    padding: 15px 0;
+}
+#footer p{
+    word-wrap: 5px;
+}
+
+
 
 #footer div{
     width: 25%;
